@@ -1,0 +1,13 @@
+body{
+    background-color:grey;
+}
+h1{
+    font-family: 'Vujahday Script',
+    cursive;
+    font-weight: 900;
+    text-align: center;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+}
