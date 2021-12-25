@@ -66,22 +66,22 @@ line-height: 30px;}
 #dictionary {
     max-width: 80%;
 }
-.about-section{
+.content-container{
     padding: 120px 60px;
    
 }
-.about-section h1 {
+.content-container h1 {
    font-size:64px;
    line-height:1.5;
   }
-.about-section h2{
+.content-container h2 {
     font-size:25px;
     font-family: var(--default-font-family);
 }
- .about-section .img-fluid {
+ .content-container .img-fluid {
 border-radius: 80px;
  }
-.about-section-content{
+.content{
     margin:30px;
 }
 @media(max-width: 960px){
@@ -100,11 +100,11 @@ border-radius: 80px;
         text-align: center;
       
     }
-    .about-section{
+    .content-container{
         text-align: center;
         padding:0;
     }
-    .about-section .img-fluid{
+    .content-container .img-fluid{
         max-width: 70%;
         border-radius: 80px;
         height: auto;
