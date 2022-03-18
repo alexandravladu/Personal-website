@@ -82,6 +82,9 @@ h3{
 #dictionary {
     max-width: 80%;
 }
+#tindog{
+    max-width: 100%;
+}
 .content-container{
     padding: 60px 60px;
    
